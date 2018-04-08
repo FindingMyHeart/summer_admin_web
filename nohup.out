@@ -1,0 +1,45 @@
+
+> vue-admin-template@1.0.0 dev /Users/dajuejinxian/Desktop/webapp/summer_admin_website
+> node build/dev-server.js
+
+> Starting dev server...
+c DONE  Compiled successfully in 4477ms
+
+> Listening at http://localhost:9528
+
+c WAIT  Compiling...
+
+c DONE  Compiled successfully in 710ms
+
+c WAIT  Compiling...
+
+c DONE  Compiled successfully in 400ms
+
+c WAIT  Compiling...
+
+c DONE  Compiled successfully in 389ms
+
+c WAIT  Compiling...
+
+c DONE  Compiled successfully in 377ms
+
+c WAIT  Compiling...
+
+c DONE  Compiled successfully in 430ms
+
+c WAIT  Compiling...
+
+c DONE  Compiled successfully in 482ms
+
+c WAIT  Compiling...
+
+c DONE  Compiled successfully in 423ms
+
+c WAIT  Compiling...
+
+c DONE  Compiled successfully in 753ms
+
+c WAIT  Compiling...
+
+c DONE  Compiled successfully in 975ms
+
